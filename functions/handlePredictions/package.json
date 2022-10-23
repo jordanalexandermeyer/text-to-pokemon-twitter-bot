@@ -1,0 +1,17 @@
+{
+  "name": "handlepredictions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1237.0",
+    "axios": "^1.1.3",
+    "hmacsha1": "^1.0.0",
+    "randomstring": "^1.2.3"
+  }
+}
